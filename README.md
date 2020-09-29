@@ -2,7 +2,7 @@
 
 Currently, this is where you will find most of my code-related work.
 
-I also have a [BitBucket](https://bitbucket.org/gamer456148/) | [GitLab](https://gitlab.com/decentralizedinternet) | [Sourceforge](https://sourceforge.net/u/gamer456148/profile/) | [StackShare](https://stackshare.io/Mentors4EDU) | [TradingView](https://www.tradingview.com/u/gamer456148/#published-scripts) | [Sourcerer](https://sourcerer.io/mentors4edu/) | [Devpost](https://devpost.com/gamer456148) | [Postman](https://explore.postman.com/decentralizedinternet)
+I also have a [BitBucket](https://bitbucket.org/gamer456148/) | [GitLab](https://gitlab.com/decentralizedinternet) | [Sourceforge](https://sourceforge.net/u/gamer456148/profile/) | [StackShare](https://stackshare.io/Mentors4EDU) | [TradingView](https://www.tradingview.com/u/gamer456148/#published-scripts) | [Sourcerer](https://sourcerer.io/mentors4edu/) | [Devpost](https://devpost.com/gamer456148) | [Postman](https://explore.postman.com/decentralizedinternet) | [Kaggle](https://www.kaggle.com/quantportal/)
 
 Outside of code, there is my research work:
 [Google Scholar](https://scholar.google.com/citations?user=v7duoewAAAAJ&hl=en&oi=ao) | [Academia](https://bleunomics.academia.edu/AndrewNassief) | [Semantic Scholar](https://www.semanticscholar.org/author/Andrew-M.-K.-Nassief/1490755710)
