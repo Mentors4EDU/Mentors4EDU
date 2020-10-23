@@ -7,6 +7,6 @@ I also have a [BitBucket](https://bitbucket.org/gamer456148/) | [GitLab](https:/
 Outside of code, there is my research work:
 [Google Scholar](https://scholar.google.com/citations?user=v7duoewAAAAJ&hl=en&oi=ao) | [Academia](https://bleunomics.academia.edu/AndrewNassief) | [Semantic Scholar](https://www.semanticscholar.org/author/Andrew-M.-K.-Nassief/1490755710)
 
-**Research Interests:** *Quantum Holographics, Free Energy Entropy Eystems, Quantum Entanglement, Quantum Computational Chemical Modeling, Quantum Similarity, Quantum Tunnelling and Quantum State Tomography*   
+**Research Interests:** *Quantum Holographics, Free Energy Entropy Systems, Quantum Entanglement, Quantum Computational Chemical Modeling, Quantum Similarity, Quantum Tunnelling and Quantum State Tomography*   
 **Specialties:** *Distributed Computing, Decentralization, Parallel Processing Architecture, Statistical Computing*  
 **Hobby Areas**: *Blockchain, Biostatistics, Data Visualization*
