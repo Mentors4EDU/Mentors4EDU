@@ -1,5 +1,7 @@
 ## Hello, welcome to my GitHub profile!
 
+![Andrew's github stats](https://github-readme-stats.vercel.app/api?username=Mentors4EDU&count_private&include_all_commits=true&hide_title=true&show_icons=true&theme=highcontrast)
+
 Currently, this is where you will find most of my code-related work.
 
 I also have a [BitBucket](https://bitbucket.org/gamer456148/) | [GitLab](https://gitlab.com/decentralizedinternet) | [Sourceforge](https://sourceforge.net/u/gamer456148/profile/) | [StackShare](https://stackshare.io/Mentors4EDU) | [TradingView](https://www.tradingview.com/u/gamer456148/#published-scripts) | [Sourcerer](https://sourcerer.io/mentors4edu/) | [Devpost](https://devpost.com/gamer456148) | [Postman](https://explore.postman.com/decentralizedinternet) | [Kaggle](https://www.kaggle.com/quantportal/)
