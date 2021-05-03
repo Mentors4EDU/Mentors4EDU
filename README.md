@@ -55,7 +55,7 @@ Outside of code, there is my research work:
         <img src="https://avatars.githubusercontent.com/u/49759744?s=200&v=4" width="80">
     </td>
     <td align='center' width="190">
-      <a href="https://github.com/eldsuit-innovations">             
+      <a href="https://airadiology.github.io/">             
         <img src="https://avatars2.githubusercontent.com/u/60891473?v=4" width="80">
     </td>      
 </table>
