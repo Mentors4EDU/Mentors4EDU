@@ -15,7 +15,7 @@ Outside of code, there is my research work:
 **Hobby Areas**: *Blockchain, Biostatistics, Data Visualization*
 
 <details>
-  <summary>⚡ Recent GitHub Activity</summary>
+  <summary>⚡ My Recent GitHub Activity</summary>
   <br/>
   
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mentors4EDU&bg_color=000000&color=FFFFFF&line=0aad45&point=1837f8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
