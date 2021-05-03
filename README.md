@@ -12,7 +12,7 @@ Outside of code, there is my research work:
 **Hobby Areas**: *Blockchain, Biostatistics, Data Visualization*
 
 <details>
-  <summary>💻 Contributions</summary>
+  <summary>💻 GitHub Commits</summary>
   <br/>
 
 |![Andrew's github stats](https://github-readme-stats.vercel.app/api?username=Mentors4EDU&count_private&include_all_commits=true&hide_title=true&show_icons=true&theme=highcontrast) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mentors4EDU&theme=blue-green&hide_border=true)](https://git.io/streak-stats)|
