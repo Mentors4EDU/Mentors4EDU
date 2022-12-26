@@ -23,7 +23,7 @@ Outside of code, there is my research work:
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
   
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mentors4EDU&bg_color=000000&color=FFFFFF&line=0aad45&point=1837f8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Mentors4EDU&bg_color=000000&color=FFFFFF&line=0aad45&point=1837f8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </details>
 
 <h3 align='left'><i>Some of My Projects 💻</i></h2>
