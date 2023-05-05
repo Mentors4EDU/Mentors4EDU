@@ -18,7 +18,6 @@ Outside of code, there is my research work:
 |![Andrew's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mentors4EDU&count_private&include_all_commits=true&hide_title=true&show_icons=true&theme=highcontrast) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mentors4EDU&theme=blue-green&hide_border=true)](https://git.io/streak-stats)|
 |---|---|
 </details>
-
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
