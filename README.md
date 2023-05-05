@@ -60,6 +60,5 @@ Outside of code, there is my research work:
     </td>      
 </table>
   
-###### Crypto Projects: [Lonero](https://lonero.org/) | [CrowdCoin](https://github.com/CrowdCoin-Team) | [CrowdWave](https://wavesexplorer.com/assets/5XWiXK6RbwXsTnY2dSHQWnKVjvLsMAEeE1rFqQz3Ton2) | [EtherStone](https://etherstone.org/) | [WeCrypto](https://wecrypto.net/) | [AMKN](https://peer-social.com/) | [FilmClout](https://filmclout.net/) | [Bitcoin Efficient](http://bitcoinefficient.com/) | [CloutContracts](https://cloutcontracts.net/) | [BitBadges](https://bitbadges.org/) | [StarkChain](https://starkchain.dev/) | [Algocoin](http://algocoin.io/)
-  
-**Information provided is "as-is". I make no disclaimer to the warranty or usecases of these projects. Not all my projects may be necessarily actively mantained.**
+###### Crypto Projects: [Lonero](https://lonero.org/) | [CrowdCoin](https://github.com/CrowdCoin-Team) | [CrowdWave](https://wavesexplorer.com/assets/5XWiXK6RbwXsTnY2dSHQWnKVjvLsMAEeE1rFqQz3Ton2) | [EtherStone](https://etherstone.org/) | [WeCrypto](https://wecrypto.net/) | [AMKN](https://peer-social.com/) | [FilmClout](https://filmclout.net/) | [Bitcoin Efficient](http://bitcoinefficient.com/) | [CloutContracts](https://cloutcontracts.net/) | [BitBadges](https://bitbadges.org/) | [StarkChain](https://starkchain.dev/) | [Algocoin](http://algocoin.io/) 
+###### Information provided is "as-is". I make no disclaimer to the warranty or usecases of these projects. Not all my projects may be necessarily actively mantained.
