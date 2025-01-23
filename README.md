@@ -15,14 +15,14 @@ Outside of code, there is my research work:
   <summary>💻 GitHub Commits</summary>
   <br/>
 
-|![Andrew's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mentors4EDU&count_private&include_all_commits=true&hide_title=true&show_icons=true&theme=highcontrast) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mentors4EDU&theme=blue-green&hide_border=true)](https://git.io/streak-stats)|
+|![Andrew's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mentors4EDU&count_private&include_all_commits=true&hide_title=true&show_icons=true&theme=highcontrast) | [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Mentors4EDU&theme=blue-green&hide_border=true)](https://git.io/streak-stats)|
 |---|---|
 </details>
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mentors4EDU&bg_color=000000&color=FFFFFF&line=0aad45&point=1837f8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Andrew's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mentors4EDU&bg_color=000000&color=FFFFFF&line=0aad45&point=1837f8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </details>
 
 <h3 align='left'><i>Some of My Projects 💻</i></h2>
